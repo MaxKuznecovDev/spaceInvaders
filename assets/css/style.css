@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+canvas{
+    width: 70%;
+
+}
+@font-face {
+    font-family: 'GameBoy';
+    src:url("../fonts/GameBoy.ttf");
+}
+
+.fontPreload{
+    font-family: 'GameBoy';
+    position: absolute;
+    left: 45%;
+}
+
